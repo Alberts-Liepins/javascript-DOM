@@ -22,4 +22,5 @@ window.addEventListener("load", function(){
     
     more_text_content.style.display = 'block'
   })
+  
 });
